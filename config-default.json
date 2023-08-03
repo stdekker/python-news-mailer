@@ -1,0 +1,10 @@
+{
+  "url": "https://www.example.com",
+  "tag_class": "class_name", // the html class that defines the articles you want to scrape
+  "links_filename": "links.txt", // the output file
+  "email_sender": "username@example.com", // the sender address
+  "email_password": "" // smpt password,
+  "email_receiver": "another.user@example.com", // destination address 
+  "email_login": "username", // smpt username
+  "email_subject": "New posts on site..."
+}
